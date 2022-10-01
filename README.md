@@ -8,9 +8,9 @@
 - [x] Deve ser possível buscar uo extrato bancário do cliente
 - [x] Deve ser possível realizar um depósito
 - [x] Deve ser possível realizar um saque
-- [ ] Deve ser possível buscar o extrato bancário de um cliente por data
-- [ ] Deve ser possível atualizar dados da conta do cliente
-- [ ] Deve ser possível obter dados da conta do cliente
+- [X] Deve ser possível buscar o extrato bancário de um cliente por data
+- [X] Deve ser possível atualizar dados da conta do cliente
+- [X] Deve ser possível obter dados da conta do cliente
 - [ ] Deve ser possível deletar uma conta
 
 ---
